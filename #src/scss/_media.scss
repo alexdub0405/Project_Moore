@@ -1,0 +1,18 @@
+@media screen and (max-width: 650px) {
+  .header__bottom-form {
+    max-width: 150px;
+  }
+  .footer__bio img {
+    display: none;
+  }
+}
+@media screen and (max-width: 605px) {
+  .header__inner-title {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header__inner-title {
+    font-size: 14px;
+  }
+}
